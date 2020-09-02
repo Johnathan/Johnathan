@@ -3,7 +3,7 @@
 
 - 🔭 I was working on [Guessi](https://gues.si)
 
-- 🌱 I’m currently learning **game development with Phaser**
+- 🌱 I’m currently learning **game development with Unity**
 
 - 👨‍💻 Personal website [https://1707.pro](https://1707.pro)
 
